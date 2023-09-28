@@ -1,0 +1,11 @@
+﻿No;País;Edad;Salario;Compra
+1;Francia;44;72000;No
+2;España;27;48000;Si
+3;Alemania;30;54000;No
+4;España;38;61000;No
+5;Alemania;40;;Si
+6;Francia;35;58000;Si
+7;España;;52000;No
+8;Francia;48;79000;Si
+9;Alemania;50;83000;No
+10;Francia;37;67000;Si
